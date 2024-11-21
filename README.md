@@ -2,8 +2,6 @@
 ### Introduction
 The dataset analyzed contains information about job vacancies from 2023, sourced from various platforms and countries. The dataset includes key attributes like job title, company, location, salary, and platform. The primary goal is to understand job market trends, identify in-demand job roles, and determine the platforms most preferred for job postings.
 
-#### The data sourced from [Hugging Face.com](https://lukebarousse.com/python)
-
 # The Questions
 
 Below are the questions I want to answer in my project:
